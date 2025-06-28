@@ -10,10 +10,10 @@
 <div align="center">
   
 
-[![](https://img.shields.io/github/stars/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models)](https://github.com/HovChen/Medical-Reasoning-Large-Language-Models)
-[![](https://img.shields.io/github/forks/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models)](https://github.com/HovChen/Medical-Reasoning-Large-Language-Models)
-[![](https://img.shields.io/github/issues/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models)](https://github.com/HovChen/Medical-Reasoning-Large-Language-Models/issues)
-[![](https://img.shields.io/github/license/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models)](https://github.com/HovChen/Medical-Reasoning-Large-Language-Models/blob/main/LICENSE) 
+[![](https://img.shields.io/github/stars/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models)](https://github.com/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models)
+[![](https://img.shields.io/github/forks/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models)](https://github.com/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models)
+[![](https://img.shields.io/github/issues/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models)](https://github.com/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models/issues)
+[![](https://img.shields.io/github/license/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models)](https://github.com/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models/blob/main/LICENSE) 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHovChen%2FPaper-List-for-Medical-Reasoning-Large-Language-Models&label=visitors&countColor=%2337d67a&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHovChen%2FPaper-List-for-Medical-Reasoning-Large-Language-Models)
 
 </div>
