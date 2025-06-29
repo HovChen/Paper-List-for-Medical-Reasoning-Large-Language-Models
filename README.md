@@ -61,6 +61,12 @@
 12. [2505'arXiv] | AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation | [`[paper]`](https://arxiv.org/abs/2505.02830) | [`[code]`](https://github.com/Liqq1/AOR) 
 13. [2505'arXiv] | Elicit and Enhance: Advancing Multimodal Reasoning in Medical Scenarios | [`[paper]`](https://arxiv.org/abs/2505.23118) 
 14. [2405'arXiv] | Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning | [`[paper]`](https://arxiv.org/abs/2405.11640) 
+15. [2504'arXiv] | PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks | [`[paper]`](https://arxiv.org/abs/2504.09258) 
+16. [2506'arXiv] | QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training | [`[paper]`](https://arxiv.org/abs/2506.00711) | [`[code]`](https://github.com/DDVD233/QoQ_Med) 
+17. [2506'arXiv] | GEMeX-ThinkVG: Towards Thinking with Visual Grounding in Medical VQA via Reinforcement Learning | [`[paper]`](https://arxiv.org/abs/2506.17939)  
+18. [2506'arXiv] | MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning | [`[paper]`](https://arxiv.org/abs/2506.00555)  
+19. [2504'arXiv] | Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation | [`[paper]`](https://arxiv.org/abs/2504.18453)  
+20. [2505'arXiv] | DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue | [`[paper]`](https://arxiv.org/abs/2505.19630) | [`[code]`](https://github.com/JarvisUSTC/DoctorAgent-RL) 
 
 ## 3. General Multimodal Reasoning Models <div id = "s3"></div>
 
@@ -74,9 +80,11 @@
 7. [2502'arXiv] | From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment | [`[paper]`](https://arxiv.org/abs/2502.01828) | [`[code]`](https://yilin-wu98.github.io/forewarn/) 
 8. [2502'arXiv] | SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living | [`[paper]`](https://arxiv.org/abs/2502.03459) | [`[code]`](https://github.com/thearkaprava/SKI-Models) 
 9. [2506'arXiv] | MEXA: Towards General Multimodal Reasoning with Dynamic Multi-Expert Aggregation | [`[paper]`](https://arxiv.org/abs/2506.17113v1) | [`[code]`](https://github.com/Yui010206/MEXA) 
+10. [2506'arXiv] | RLPR: Extrapolating RLVR to General Domains without Verifiers | [`[paper]`](https://arxiv.org/abs/2506.18254) | [`[code]`](https://github.com/openbmb/RLPR) 
+11. [2505'arXiv] | VLM-R3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought | [`[paper]`](https://arxiv.org/abs/2505.16192v2)
 
 ## 🥰 Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models&type=Date)](https://star-history.com/#HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models&type=Date)](https://www.star-history.com/#HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models&Date)
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=170&color=0:5B83DE,100:6BCE9F&text=Back%20to%20Top&section=footer&fontSize=25&fontAlignY=70&fontColor=FFFFFF)
 ](#top)
