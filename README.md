@@ -67,6 +67,7 @@
 18. [2506'arXiv] | MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning | [`[paper]`](https://arxiv.org/abs/2506.00555)  
 19. [2504'arXiv] | Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation | [`[paper]`](https://arxiv.org/abs/2504.18453)  
 20. [2505'arXiv] | DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue | [`[paper]`](https://arxiv.org/abs/2505.19630) | [`[code]`](https://github.com/JarvisUSTC/DoctorAgent-RL) 
+21. [25'ICML] | Visual and Domain Knowledge for Professional-level Graph-of-Thought Medical Reasoning | [`[paper]`](https://openreview.net/forum?id=tnyxtaSve5&referrer=%5Bthe%20profile%20of%20Zhenfang%20Chen%5D(%2Fprofile%3Fid%3D~Zhenfang_Chen1))  
 
 ## 3. General Multimodal Reasoning Models <div id = "s3"></div>
 
