@@ -18,7 +18,7 @@
 
 </div>
 
-**🧑‍💻 Contributors: [Huangwei Chen (22' HDU Undergraduate)](https://hovchen.github.io/), [Zhenyu Yan (22' HDU Undergraduate)](https://github.com/Flartiny), [Yuqi Zhan (23' HDU Undergraduate)](https://github.com/Roin04), [Donghao Zhang (23' HDU Undergraduate)](https://github.com/ZDH520a), [Weihao Cheng (24' HDU Undergraduate)](https://github.com/code-11-lab), [Yueyi Wu (23' HDU Undergraduate)](https://github.com/Elsieeee3914), [Yifei Sun (22' HDU-ITMO Undergraduate)](https://diaoquesang.github.io/).**
+**🧑‍💻 Contributors: [Huangwei Chen (22' HDU Undergraduate)](https://hovchen.github.io/), [Zhenyu Yan (22' HDU Undergraduate)](https://github.com/Flartiny), [Yuqi Zhan (23' HDU Undergraduate)](https://github.com/Roin04), [Donghao Zhang (23' HDU Undergraduate)](https://github.com/ZDH520a), [Weihao Cheng (24' HDU Undergraduate)](https://github.com/code-11-lab), [Yueyi Wu (23' HDU Undergraduate)](https://github.com/Elsieeee3914), [Yifei Sun (22' HDU-ITMO Undergraduate)](https://diaoquesang.github.io/), [Junhao Jia (23' HDU Undergraduate)](https://github.com/BeistMedAI).**
 
 **🔍 DeepWiki: [Generating GitHub Knowledge Base Documentation in One Click ](https://deepwiki.com/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models).**
 
